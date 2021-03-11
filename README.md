@@ -1,5 +1,5 @@
 # owncast-docker
-My owncast docker image that I use when streaming.
+My [owncast](https://owncast.online/) docker image that I use when streaming.
 
 ## Building
 Simply run something like,
